@@ -1,5 +1,5 @@
 # Advanced-Computer-Networks
-LAN and WAN designs, the final project of the ACN course at IIIT Hyderabad. We showcase our LAN design in `LAN.pdf`, and our WAN design in `WAN.pdf`. 
+LAN and WAN designs, the final project of the Advanced Computer Networks course at IIIT Hyderabad. We showcase our LAN design in `LAN.pdf`, and our WAN design in `WAN.pdf`. 
 
 ### LAN Design
 Design LAN for the locality you are staying right now - Apartment/Township/Colony/Village/Hostel/etc. You need to address the following aspects:
